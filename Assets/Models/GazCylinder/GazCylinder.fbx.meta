@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 9152895ded47db143a11f7c3fc0837c5
+guid: a654fc640d0321445ad1e40e22b90f27
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
@@ -8,7 +8,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: GazCylinder
-    second: {fileID: 2100000, guid: ec9ae1e20108d1c488478bdf8364c70d, type: 2}
+    second: {fileID: 2100000, guid: 29483867f9b40964187ebce31afb27fc, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

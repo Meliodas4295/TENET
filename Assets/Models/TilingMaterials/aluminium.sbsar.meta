@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fc36f808987d7ad4ab3a4d36b5f54442
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: dda12f74ff9116a42b23482252b2c482, type: 3}
+  _instancesCopy:
+  - {fileID: 11400000, guid: dd0be95be79a67042bc4ffeff9e31cac, type: 2}
+  _fileAsset: {instanceID: 0}
+  _assetPath: Assets/Models/TilingMaterials/aluminium.sbsar

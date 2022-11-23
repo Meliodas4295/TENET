@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 49aa629036880fa4fbdab8989c418d3c
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: dda12f74ff9116a42b23482252b2c482, type: 3}
+  _instancesCopy:
+  - {fileID: 11400000, guid: 410afb961e0687f43a2a60a5630856fd, type: 2}
+  _fileAsset: {instanceID: 0}
+  _assetPath: Assets/Ressources/Rock_snow.sbsar

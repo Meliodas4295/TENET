@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2a43b75d44e98cd4b8773fc9b2e05493
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: dda12f74ff9116a42b23482252b2c482, type: 3}
+  _instancesCopy:
+  - {fileID: 11400000, guid: ad0fbbf47807f9247b1cd9f9046125a0, type: 2}
+  _fileAsset: {fileID: 6013892654665635331, guid: 2a43b75d44e98cd4b8773fc9b2e05493,
+    type: 3}
+  _assetPath: Assets/Models/TilingMaterials/Non-Slip.sbsar

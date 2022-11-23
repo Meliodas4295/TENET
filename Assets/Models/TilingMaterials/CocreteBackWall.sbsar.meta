@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 779c4c9f88a9ad24b8c6b50e07455de1
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: dda12f74ff9116a42b23482252b2c482, type: 3}
+  _instancesCopy:
+  - {fileID: 11400000, guid: dcc04d8487a72d141b0473ef2a9cacfa, type: 2}
+  _fileAsset: {fileID: 6013892654665635331, guid: 779c4c9f88a9ad24b8c6b50e07455de1,
+    type: 3}
+  _assetPath: Assets/Models/TilingMaterials/CocreteBackWall.sbsar
